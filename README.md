@@ -59,3 +59,5 @@ Once exported, how many partitions (folders) are present in Google Cloud?
     56
     67
     108
+
+Answer: 96
